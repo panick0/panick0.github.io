@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "And then there was Jekyll!"
 categories: jekyll
 ---
