@@ -1,3 +1,3 @@
 # panick0.github.io
 
-A GitHub page in which to store my personal projects.
+A GitHub page where I store my personal projects.
