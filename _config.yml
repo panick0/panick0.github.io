@@ -45,6 +45,20 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/panick0"
 
+# Makes all posts uniform
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
