@@ -34,7 +34,17 @@ minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-remote-theme
+
+author:
+  name      : "panick0"
+  avatar    : "https://avatars.githubusercontent.com/u/78646115"
+  #bio       : ""
+  #location  : ""
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/panick0"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
