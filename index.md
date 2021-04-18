@@ -10,4 +10,4 @@ author_profile: true
 
 Hello and welcome to panick0.github.io!
 
-The different sections of the blog will come online as soon as they're ready (and tested, hopefully).
+The different sections of the blog will come online as soon as they're ready.
