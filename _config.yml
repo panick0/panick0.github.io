@@ -44,6 +44,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/panick0"
+    - label: "TryHackMe"
+      icon: "fas fa-fw fa-cloud"
+      url: "https://tryhackme.com/p/panick0"
 
 # Makes all posts uniform
 defaults:
